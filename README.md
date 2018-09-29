@@ -1,6 +1,8 @@
-# igtomic
+blue
+green
+red
+yellow
+purple
+plink
+black
 
-blue bla
-bl
-
-#include <iostream>
